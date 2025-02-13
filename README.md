@@ -60,6 +60,5 @@ GameOver UI에도 Restart 버튼 , Quit 버튼을 구현했습니다.
 
 ## 동영상
 
-[게임 동영상]([https://youtu.be/Pzv5XbbWMd0](https://www.youtube.com/watch?v=yBBA7Iw7rI8&ab_channel=%ED%95%9C%EC%83%81%ED%98%81))
-
+[게임 동영상](https://www.youtube.com/watch?v=yBBA7Iw7rI8&ab_channel=%ED%95%9C%EC%83%81%ED%98%81)
 
