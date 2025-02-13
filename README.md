@@ -1,6 +1,11 @@
 # Assignment8
 
 
+## 동영상
+
+[게임 동영상](https://www.youtube.com/watch?v=yBBA7Iw7rI8&ab_channel=%ED%95%9C%EC%83%81%ED%98%81)
+
+
 ## 프로젝트 개요
 필수 과제만 구현하였습니다!
 
@@ -58,7 +63,4 @@ Clear 하지 못했다는 메시지와 함꼐 점수를 출력합니다.
 GameOver UI에도 Restart 버튼 , Quit 버튼을 구현했습니다.
 
 
-## 동영상
-
-[게임 동영상](https://www.youtube.com/watch?v=yBBA7Iw7rI8&ab_channel=%ED%95%9C%EC%83%81%ED%98%81)
 
