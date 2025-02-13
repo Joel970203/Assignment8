@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\Unreal_Project\\Sparta_Project\\Source\\Sparta_Project\\Sparta_Project.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal_Project\\Sparta_Project\\.vscode\\compileCommands_Sparta_Project\\Sparta_Project.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Project\\Sparta_Project\\Source\\Sparta_Project\\Sparta_Project.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal_Project\\Sparta_Project\\.vscode\\compileCommands_Sparta_Project\\Sparta_Project.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Project\\Sparta_Project\\Source\\Sparta_Project\\Sparta_Project.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal_Project\\Sparta_Project\\.vscode\\compileCommands_Sparta_Project\\Sparta_Project.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
